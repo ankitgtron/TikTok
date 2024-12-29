@@ -87,7 +87,7 @@ This project is structured for an incremental development process, with each wee
 - **Tasks:**
   1. Initialize the Nuxt 3 project and set up Tailwind CSS.
      - **Reading:** [Nuxt 3 Official Docs](https://v3.nuxtjs.org)
-     - **Video:** [Nuxt 3 Crash Course](https://www.youtube.com/watch?v=CHSL0Btbj_o)
+     - **Video:** [Nuxt 3 Crash Course](https://www.youtube.com/watch?v=GBdO5myZNsQ&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC)
   2. Design the homepage layout.
      - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
      - **Video:** [Tailwind CSS Setup Guide](https://www.youtube.com/watch?v=UBOj6rqRUME)
@@ -101,10 +101,10 @@ This project is structured for an incremental development process, with each wee
 - **Tasks:**
   1. Set up Laravel API for user management.
      - **Reading:** [Laravel Authentication Docs](https://laravel.com/docs/10.x/authentication)
-     - **Video:** [Laravel API Setup](https://www.youtube.com/watch?v=mbsmsi7l3r4)
+     - **Video:** [Laravel API Setup](https://www.youtube.com/watch?v=w_PheXsEg0c&list=PLjVLYmrlmjGfiBKfgOFEbI4FDWvLwYh-e)
   2. Connect frontend with the backend using Axios.
      - **Reading:** [Axios Documentation](https://axios-http.com/)
-     - **Video:** [Using Axios in Vue.js](https://www.youtube.com/watch?v=jVf4_WglzWA)
+     - **Video:** [Using Axios in Vue.js](https://www.youtube.com/watch?v=6LyagkoRWYA&t=1s)
 - **Deliverables:**
   - Functional login/signup system.
 
@@ -118,7 +118,7 @@ This project is structured for an incremental development process, with each wee
      - **Video:** [Handling File Uploads in Laravel](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   2. Build the video upload UI with drag-and-drop support.
      - **Reading:** [Vue File Upload Guide](https://vuefileupload.netlify.app/)
-     - **Video:** [Drag and Drop with Vue.js](https://www.youtube.com/watch?v=EhQ0ySr38kE)
+     - **Video:** [Drag and Drop with Vue.js](https://www.youtube.com/watch?v=VeNfHj6MhgA)
 - **Deliverables:**
   - Functional video upload and display system.
 
@@ -131,8 +131,8 @@ This project is structured for an incremental development process, with each wee
      - **Reading:** [Socket.IO Docs](https://socket.io/docs/v4/)
      - **Video:** [Real-Time Apps with Socket.IO](https://www.youtube.com/watch?v=UUddpbgPEJM)
   2. Build a comment section with live updates.
-     - **Reading:** [Vue Realtime Guide](https://v3.nuxtjs.org/guide/realtime/)
-     - **Video:** [Building Real-Time Features](https://www.youtube.com/watch?v=22Rywce_kcg&t=127s)
+     - **Reading:** [Vue Realtime Guide](https://vuejs.org/)
+     - **Video:** [Building Real-Time Features](https://www.youtube.com/watch?v=yCsWEMO52cw&list=PL7SQItaETaAG1NpF1CLNdd9mrxtuWzpuO)
 - **Deliverables:**
   - Real-time likes and comments functionality.
 
@@ -142,11 +142,11 @@ This project is structured for an incremental development process, with each wee
 - **Goal:** Deploy the application and ensure it’s production-ready.
 - **Tasks:**
   1. Deploy the frontend and backend applications.
-     - **Reading:** [Deploying Nuxt 3 Apps](https://v3.nuxtjs.org/guide/deploy/)
-     - **Video:** [Deploying Nuxt Apps](https://www.youtube.com/watch?v=CqQg-jIx5qs)
+     - **Reading:** [Deploying Nuxt 3 Apps](https://nuxt.com/docs/getting-started/introduction)
+     - **Video:** [Deploying Nuxt Apps](https://www.youtube.com/watch?v=EpDkOZSt34Q)
   2. Test all features using Postman and Vue Testing Library.
      - **Reading:** [Postman API Testing](https://www.postman.com/api-testing/)
-     - **Video:** [Testing Vue Apps](https://www.youtube.com/watch?v=3e1GHCA3GP0)
+     - **Video:** [Testing Vue Apps](https://www.youtube.com/watch?v=0lV4dVYOyBw&list=PLC2LZCNWKL9ahK1IoODqYxKu5aA9T5IOA)
 - **Deliverables:**
   - Fully deployed TikTok Clone accessible via a public URL.
 
